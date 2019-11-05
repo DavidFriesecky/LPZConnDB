@@ -4,7 +4,7 @@ using System;
 namespace LPZConnDB.src_data
 {
     public class ConnModule
-    {
+    {//xz
         private string moduleName = "";
         private BindingList<ConnModuleProperty> properties;
 
