@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPZConnDB", "LPZConnDB.csproj", "{5A845AAC-3F1A-408C-9FF1-404526229EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A845AAC-3F1A-408C-9FF1-404526229EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A845AAC-3F1A-408C-9FF1-404526229EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A845AAC-3F1A-408C-9FF1-404526229EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A845AAC-3F1A-408C-9FF1-404526229EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA36E3FD-5460-4419-AEDE-BFEF6AAD9FF4}
+	EndGlobalSection
+EndGlobal
